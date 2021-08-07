@@ -4,4 +4,4 @@ Output-
 1. Scatter plot
 2. Scatter plot after GMM
 3. Segregated tissue images (Rejected tissue are marked black)
-Input for number of tissue components has to be provided in both notebook and the python file
+Input for number of tissue components has to be provided in both notebook and the python file.
